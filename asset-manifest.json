@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cryptonite/static/css/main.0a319cd6.chunk.css",
+    "main.js": "/Cryptonite/static/js/main.1d282d16.chunk.js",
+    "main.js.map": "/Cryptonite/static/js/main.1d282d16.chunk.js.map",
+    "runtime-main.js": "/Cryptonite/static/js/runtime-main.41f91404.js",
+    "runtime-main.js.map": "/Cryptonite/static/js/runtime-main.41f91404.js.map",
+    "static/js/2.a0789bbe.chunk.js": "/Cryptonite/static/js/2.a0789bbe.chunk.js",
+    "static/js/2.a0789bbe.chunk.js.map": "/Cryptonite/static/js/2.a0789bbe.chunk.js.map",
+    "index.html": "/Cryptonite/index.html",
+    "static/css/main.0a319cd6.chunk.css.map": "/Cryptonite/static/css/main.0a319cd6.chunk.css.map",
+    "static/js/2.a0789bbe.chunk.js.LICENSE.txt": "/Cryptonite/static/js/2.a0789bbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41f91404.js",
+    "static/js/2.a0789bbe.chunk.js",
+    "static/css/main.0a319cd6.chunk.css",
+    "static/js/main.1d282d16.chunk.js"
+  ]
+}
